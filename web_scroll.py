@@ -2,8 +2,6 @@ from unittest.main import MAIN_EXAMPLES
 import slack_notice as sl
 import requests
 import cfscrape
-import csv
-import re
 from bs4 import BeautifulSoup as bs
 from datetime import datetime, timedelta
 
