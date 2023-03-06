@@ -1,5 +1,4 @@
 import requests
-import sys
 import json
 import numpy
 import os
